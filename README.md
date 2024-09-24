@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nawshin-Rodoshi
+- 👋 Hi, I’m @Nawshin-Nawar-Rodoshi
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 
